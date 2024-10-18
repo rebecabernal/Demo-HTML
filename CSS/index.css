@@ -24,7 +24,7 @@ background-color: rgb(13, 224, 51);
 }
 
 .nyanCat{
-    width: 40%;
+    width: 30%;
 }
 
 .socialNetworks{
@@ -39,6 +39,26 @@ ol{
     color: cadetblue;
 }
 
-.secondlistUl{
-    background-color: burlywood;
+.firstListUl{
+    background-color: rgb(186, 0, 158);
+}
+
+.secondListUl{
+    background-color: rgb(108, 0, 151);
+}
+
+.thirdListUl{
+    background-color: rgb(0, 71, 213);
+}
+
+.firstListOl{
+    background-color: rgb(229, 229, 0);
+}
+
+.secondListOl{
+    background-color: rgb(206, 103, 7);
+}
+
+.thirdListOl{
+    background-color: rgb(213, 0, 0);
 }
