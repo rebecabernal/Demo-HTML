@@ -1,0 +1,45 @@
+header, footer{
+    background-color: rgb(0, 167, 25);
+}
+
+main{
+background-color: rgb(13, 224, 51);
+}
+
+
+.titlePrincipal{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(173, 102, 16)
+}
+
+.titleSecundary{
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aquamarine
+}
+
+.profileImg{
+    width: 32px;
+}
+
+.nyanCat{
+    width: 40%;
+}
+
+.socialNetworks{
+    width: 32px;
+}
+
+ul{
+    color: blueviolet;
+}
+
+ol{
+    color: cadetblue;
+}
+
+.secondlistUl{
+    background-color: burlywood;
+}
