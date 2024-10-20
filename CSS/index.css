@@ -1,27 +1,51 @@
 header, footer{
-    background-color: rgb(0, 167, 25);
+    background-color: rgb(7, 88, 0);
 }
 
 main{
-background-color: rgb(13, 224, 51);
+    background-color: rgb(13, 224, 51);
 }
 
 .titlePrincipal{
     text-align: center;
     font-size: 40px;
-    font-family: Arial, Helvetica, sans-serif;
-    color:rgb(173, 102, 16)
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(219, 2, 161);
 }
 
 .titleSecundary{
     text-align: right;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:aquamarine
+    color:rgb(215, 104, 0);
+}
+
+p{
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .profileImg{
     width: 32px;
 }
+
+
+table{
+    background-color: rgba(246, 0, 217, 0.811);
+    border-spacing: 3px;
+    width:max-content;
+}
+
+.luluIcon{
+    width: 100px; 
+}
+.oriannaIcon{
+    width: 100px;
+}
+.morganaIcon{
+    width: 100px;
+}
+
 
 .nyanCat{
     width: 30%;
@@ -29,6 +53,7 @@ background-color: rgb(13, 224, 51);
 
 .socialNetworks{
     width: 32px;
+
 }
 
 ul{
@@ -40,25 +65,36 @@ ol{
 }
 
 .firstListUl{
-    background-color: rgb(186, 0, 158);
+    background-color: rgb(215, 3, 183);
+    color: rgb(136, 3, 116);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
-.secondListUl{
-    background-color: rgb(108, 0, 151);
+    .secondListUl{
+    background-color: rgb(148, 2, 205);
+    color:  rgb(88, 5, 121);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .thirdListUl{
     background-color: rgb(0, 71, 213);
+    color: rgb(5, 41, 112);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .firstListOl{
     background-color: rgb(229, 229, 0);
+    color: rgb(128, 128, 6);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .secondListOl{
-    background-color: rgb(206, 103, 7);
+    background-color: rgb(218, 107, 3);
+    color: rgb(125, 62, 3);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .thirdListOl{
-    background-color: rgb(213, 0, 0);
+    background-color: rgb(220, 2, 2);
+    color:  rgb(129, 2, 2);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
